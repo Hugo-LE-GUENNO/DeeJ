@@ -33,11 +33,12 @@ Enjoy !
 
 
 
-Usage:
-
-Set the sensitivity slider to adjust the sound detection level.
-Configure the sound threshold at which commands will be triggered.
-When the threshold is exceeded, a Fiji command (Rotate, Enhance Contrast, Change LUT) will be executed on the active image window.
+```mermaid
+graph TD;
+    A[Sound Detection] -->|Exceeds Threshold| B{Trigger Fiji Command};
+    B -->|Rotate| C[Active Image Window];
+    B -->|Enhance Contrast| C;
+    B -->|Change LUT| C;
 
 
 
