@@ -27,13 +27,12 @@ Clone this repository to your desired location.
 
     git clone https://github.com/Hugo-LE-GUENNO/DeeJ.git
 
-Add the plugin to your Fiji installation's plugins folder.
-Restart Fiji.
-Enjoy !
+- Add the plugin to your Fiji installation's plugins folder.
+- Restart Fiji.
+- Enjoy !
 
 
 
-```mermaid
 graph TD;
     A[Sound Detection] -->|Exceeds Threshold| B{Trigger Fiji Command};
     B -->|Rotate| C[Active Image Window];
