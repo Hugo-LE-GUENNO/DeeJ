@@ -22,6 +22,13 @@ git clone https://github.com/Hugo-LE-GUENNO/DeeJ.git
 
 
 ## **Usage**
+- Click on the Play button to start sound detection.
+- The microphone or computer will detect sound input.
+- Adjust the sensitivity using the scroll wheel on your mouse.
+- Monitor the sound level bar to avoid saturation.
+- Click on the desired options (Contrast, Brightness, or LUT)—or activate all at once.
+- Click on the image window where you want to apply the changes.
+
 ![Logo](https://github.com/Hugo-LE-GUENNO/DeeJ/blob/main/DeeJ_UI-schem.png)
 
 
