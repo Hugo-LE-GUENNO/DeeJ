@@ -1,5 +1,5 @@
 
-# DeeJ 
+# DeeJ - Sound-Triggered Fiji Commands  
 
 This plugin detects sound levels and triggers Fiji commands on the currently active window based on a defined threshold.
 
@@ -27,7 +27,7 @@ git clone https://github.com/Hugo-LE-GUENNO/DeeJ.git
 
 ## **Usage**
 
-![Logo](https://github.com/Hugo-LE-GUENNO/DeeJ/blob/main/DeeJ_UI.png)
+![Logo](https://github.com/Hugo-LE-GUENNO/DeeJ/blob/main/DeeJ_UI-schem.png)
 
 
 ## **License**
