@@ -6,7 +6,7 @@ This plugin detects sound levels and triggers Fiji commands on the currently act
 ![Logo](https://github.com/Hugo-LE-GUENNO/DeeJ/blob/main/DeeJ.svg)
 
 
-## **Requirements**
+## **Requirements**
 - Ubuntu 24.04.1 LTS
 - Fiji (ImageJ)
 
