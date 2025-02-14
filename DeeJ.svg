@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Base du microscope -->
+  <path d="M80 180 L120 180 L130 140 L70 140 Z" fill="#444"/>
+  
+  <!-- Support du microscope -->
+  <rect x="90" y="80" width="20" height="60" fill="#666"/>
+  
+  <!-- Platine circulaire (comme un disque vinyle) -->
+  <circle cx="100" cy="70" r="40" fill="#333"/>
+  <circle cx="100" cy="70" r="38" fill="#222"/>
+  <circle cx="100" cy="70" r="15" fill="#444"/>
+  <circle cx="100" cy="70" r="2" fill="#666"/>
+  
+  <!-- Lignes sur le disque -->
+  <circle cx="100" cy="70" r="30" fill="none" stroke="#444" stroke-width="1"/>
+  <circle cx="100" cy="70" r="25" fill="none" stroke="#444" stroke-width="1"/>
+  <circle cx="100" cy="70" r="20" fill="none" stroke="#444" stroke-width="1"/>
+  
+  <!-- Objectifs du microscope -->
+  <circle cx="140" cy="70" r="12" fill="#555"/>
+  <circle cx="140" cy="70" r="10" fill="#666"/>
+  <circle cx="140" cy="70" r="8" fill="#777"/>
+  
+  <!-- Fader DJ -->
+  <rect x="45" y="40" width="8" height="30" rx="2" fill="#888"/>
+  
+  <!-- Bouton de contrôle -->
+  <circle cx="45" cy="30" r="8" fill="#999"/>
+</svg>
+
