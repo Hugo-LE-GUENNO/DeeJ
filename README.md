@@ -17,13 +17,13 @@ Active Window Detection: Executes the command on the currently active Fiji windo
 
 Requirements:
 
-Ubuntu 24.04.1 LTS
-Fiji (ImageJ)
+- Ubuntu 24.04.1 LTS
+- Fiji (ImageJ)
 
 
 Installation:
 
-Clone this repository to your desired location.
+- Clone this repository to your desired location.
 
     git clone https://github.com/Hugo-LE-GUENNO/DeeJ.git
 
@@ -33,11 +33,13 @@ Clone this repository to your desired location.
 
 
 
+
 graph TD;
     A[Sound Detection] -->|Exceeds Threshold| B{Trigger Fiji Command};
     B -->|Rotate| C[Active Image Window];
     B -->|Enhance Contrast| C;
     B -->|Change LUT| C;
+
 
 
 
