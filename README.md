@@ -26,14 +26,9 @@ git clone https://github.com/Hugo-LE-GUENNO/DeeJ.git
 
 
 ## **Usage**
-```mermaid
-graph TD;
-    A[Sound Detection] -->|Exceeds Threshold| B{Trigger Fiji Command};
-    B -->|Rotate| C[Active Image Window];
-    B -->|Enhance Contrast| C;
-    B -->|Change LUT| C;
 
-
+![Logo](https://github.com/Hugo-LE-GUENNO/DeeJ/blob/main/DeeJ_UI.png)
+![Logo](https://github.com/Hugo-LE-GUENNO/DeeJ/blob/main/DeeJ_schem.png)
 
 
 ## **License**
