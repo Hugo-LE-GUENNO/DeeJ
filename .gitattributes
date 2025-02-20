@@ -1,0 +1,3 @@
+# Forcer la détection Java et éviter que le JAR soit ignoré
+*.jar linguist-vendored=false
+*.java linguist-detectable=true
